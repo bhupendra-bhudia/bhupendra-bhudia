@@ -1,4 +1,6 @@
-### Hi there 👋
+## About Me
+
+I am an accomplished all-around engineering technologist, (retro) gamer, and photography enthusiast who loves the outdoors. I have core skills in Python, Java, C/C++, Linux, databases/SQL and distributed systems & services.
 
 <!--
 **bhupendra-bhudia/bhupendra-bhudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
